@@ -56,6 +56,17 @@ h2 {
     border-bottom: 3px solid #ddd;
 }
 
+h3 {
+    position: absolute;
+    width: 200px;
+    color: #fff;
+    text-align: center;
+    background-color: teal;
+    margin-top: 150px;
+    padding: 5px;
+}
+}
+
 nav {
     float: right;
     padding-top: 20px;
@@ -84,7 +95,7 @@ ul li a:hover {
 
 img {
     height: 200px;
-    weight: 200px;
+    width: 200px;
     margin: 10px 20px 0 0;
 }
 
