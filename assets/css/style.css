@@ -18,6 +18,7 @@
     padding: 10px 30px;
     margin-top: 25px;
     border: 1px solid #ddd;
+    margin-bottom: 100px;
 }
 
 body {
@@ -62,9 +63,8 @@ h3 {
     color: #fff;
     text-align: center;
     background-color: teal;
-    margin-top: 150px;
+    margin-top: 160px;
     padding: 5px;
-}
 }
 
 nav {
@@ -91,12 +91,8 @@ ul li a:hover {
 #headshot {
     float: left;
     margin-right: 15px;
-}
-
-img {
     height: 200px;
     width: 200px;
-    margin: 10px 20px 0 0;
 }
 
 footer {
@@ -141,8 +137,13 @@ form {
     color: #777;
 }
 
-.thumnbnail {
+.thumbnail {
     float: left;
     height: 200px;
     width: 200px;
+    margin: 10px 35px 40px 0px;
+}
+
+#gallery {
+   width: 75%;
 }
